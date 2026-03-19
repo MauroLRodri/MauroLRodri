@@ -1,65 +1,68 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Mauro López</h1>
 
-###
-
-<p align="left">My name is Mauro and I'm a Full Stack Developer based in Barcelona</p>
-
-###
+<p align="left">
+Junior Software Developer | React • TypeScript • Node.js
+</p>
 
 <h2 align="left">🧑‍💻 About me</h2>
 
-###
-
 <p align="left">
-✨ Creating bugs since I started coding 😅<br>
-📚 I'm currently learning advanced backend architecture, clean code, and system design<br>
-🎯 Goals: Build scalable apps, contribute to open-source, and keep growing as a developer<br>
-🎲 Fun fact: I enjoy turning caffeine into code, and refactoring gives me peace of mind ☕🧘‍♂️
-</p>
+I'm a Junior Software Developer with practical experience building and maintaining web applications using <strong>React</strong> and <strong>TypeScript</strong>, along with a solid foundation in backend development with <strong>Node.js</strong> and SQL databases.<br><br>
 
-###
+I enjoy creating clean and maintainable solutions, integrating frontend applications with backend services, and improving my understanding of how software works end to end.<br><br>
+
+I'm currently focused on growing as a full stack developer and contributing to teams that build useful, high-quality digital products.
+</p>
 
 <h2 align="left">🔧 Tech Stack</h2>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
-</div>
-
-###
+<p align="left">
+<strong>Frontend:</strong> React, TypeScript, HTML, CSS<br>
+<strong>Backend:</strong> Node.js, .NET<br>
+<strong>Databases:</strong> MySQL, PostgreSQL<br>
+<strong>Tools:</strong> Git, GitHub, Testing, Agile workflows
+</p>
 
 <h2 align="left">🌐 What I do</h2>
 
-- 💻 I build full-stack applications with **React**, **Next.js** and **Node.js**
-- 🧠 I focus on writing **scalable**, **maintainable** and **testable** code
-- 📦 I structure projects with **clean architecture**, **modular design** and **best practices**
-- 🎨 I care about **UI/UX**, using **Styled Components**, **Storybook**, and **accessibility**
-- 🧪 I write tests with **Jest** and use tools like **ESLint**, **Biome**, and **Prettier** for code quality
-- 🚀 I containerize with **Docker**, use **Git** daily, and follow agile methodologies
+<ul align="left">
+  <li>Build modern interfaces with <strong>React</strong> and <strong>TypeScript</strong></li>
+  <li>Connect frontend applications with backend APIs</li>
+  <li>Write clean, structured and maintainable code</li>
+  <li>Support testing and validation of new features</li>
+  <li>Collaborate with teams in agile environments</li>
+</ul>
 
-###
-
-<h2 align="left">📫 Let's Connect</h2>
+<h2 align="left">💼 Experience</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:tu.email@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
-  </a>
-  <a href="https://tu-portafolio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&style=for-the-badge" />
-  </a>
+<strong>Travelport</strong> — Software Engineer<br>
+Worked on front-end development, API integration, testing and feature validation in a complex development environment.<br><br>
+
+<strong>Smarting</strong> — Software Engineer<br>
+Contributed to software development in a professional team setting.<br><br>
+
+<strong>Private Programming Lessons</strong><br>
+Supported students in learning programming concepts and problem-solving skills.
+</p>
+
+<h2 align="left">🎓 Education</h2>
+
+<p align="left">
+<strong>Multiplatform Application Development</strong><br>
+Salesians Sarrià Barcelona
+</p>
+
+<h2 align="left">🌍 Languages</h2>
+
+<p align="left">
+English · Spanish · Catalan
+</p>
+
+<h2 align="left">📫 Contact</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mauro-l%C3%B3pez" target="_blank">LinkedIn</a> ·
+  <a href="mailto:lopezmaurodri@gmail.com">Email</a> ·
+  <a href="https://github.com/MauroLRodri" target="_blank">GitHub</a>
 </p>
